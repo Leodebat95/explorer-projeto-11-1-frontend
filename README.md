@@ -5,7 +5,7 @@ Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketse
 É o Frontend da aplicação "Rocket Movies", hospedada em [Rocket Movies](https://rocketmoviesleonardodebattisti.netlify.app/).
 
 Este exercício é focado no processo de deploy da aplicação,
-introduzindo os conceitos de ambientes de aplicação web e serviços de hospedagem web.
+introduzindo os conceitos de ambientes de aplicação web e serviços de hospedagem web.a
 
 <br>
   <img width="406" height="235" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/9e0a32ae-2d54-4ee7-b9bf-3329ae315737" />
